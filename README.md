@@ -21,9 +21,6 @@ Organizar e visualizar dados de assinaturas, destacando faturamento por tipo de 
 - Período: 01/01/2025 a 10/12/2025
 - Segmentações para filtros por plano, tipo e auto-renovação.
 
-## Paleta de Cores
-Baseada na identidade Xbox: tons de verde (#9BC848, #22C55E) e complementares.
-
 ## Como usar
 1. Abra o arquivo no Excel (2010+).
 2. Acesse a aba Dashboard para visualizar KPIs e gráficos.
